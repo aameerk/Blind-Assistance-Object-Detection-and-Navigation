@@ -1,22 +1,16 @@
-os
 pytesseract
 pytorch
 pyttsx3
 numpy 
-tensoflow
-tarfile
-zipfile
-time
-engineio
+tensorflow
 matplotlib
-opencv
-Protobuf 3.0.0
-Python-tk
-Pillow 1.0
+opencv-python
+Protobuf 
+tk
+Pillow 
 lxml
-tf-slim
+tf_slim
 slim
-Jupyter notebook
 Matplotlib
 Cython
 contextlib2
